@@ -19,26 +19,25 @@
 
 <p align="center">
   <a href="https://www.instagram.com/_.outerbrain._">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40" style="filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40"/>
   </a>
-
+  
   <a href="https://x.com/MaheshofficialM">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40" style="filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40"/>
   </a>
-
+  
   <a href="https://www.linkedin.com/in/panabaka-mahesh-1637m/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" style="filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40"/>
   </a>
-
+  
   <a href="https://www.hackerrank.com/profile/panabakamahesh11">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40" style="filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
   </a>
-
+  
   <a href="https://leetcode.com/u/mahesh1637/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" style="filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
   </a>
 </p>
-
 ---
 
 ### 🏆 Achievements
