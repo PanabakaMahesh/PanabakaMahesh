@@ -48,24 +48,22 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.instagram.com/_.outerbrain._" target="_blank">Instagram</a> |
-<a href="https://www.linkedin.com/in/panabaka-mahesh-1637m/" target="_blank">LinkedIn</a> |
-<a href="https://x.com/MaheshofficialM" target="_blank">X (Twitter)</a> |
-<a href="https://www.hackerrank.com/profile/panabakamahesh11" target="_blank">HackerRank</a> |
-<a href="https://leetcode.com/u/mahesh1637/" target="_blank">LeetCode</a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PanabakaMahesh&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PanabakaMahesh&theme=radical" />
+  <a href="https://www.instagram.com/_.outerbrain._">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://x.com/MaheshofficialM">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/panabaka-mahesh-1637m/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/panabakamahesh11">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/mahesh1637/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+  </a>
 </p>
 
 ---
