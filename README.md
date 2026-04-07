@@ -5,10 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Developer;CSE+Student;Quantum+Enthusiast;Building+Smart+Systems" />
 </p>
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Panabaka Mahesh</h1>
-<h3 align="center">A Passionate CSE Student | AI & ML Enthusiast</h3>
 
 ---
 
