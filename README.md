@@ -1,10 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Developer;CSE+Student;Quantum+Enthusiast;Building+Smart+Systems" />
+  
 </p>
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
