@@ -7,10 +7,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE @ SRM University (CGPA: 8.18)
-- 🌱 Currently learning **Machine Learning & AI**
+- 🎓 B.Tech CSE @ SRM University
+- 🌱 Currently learning **Machine Learning & AI / App development**
 - 💡 Interested in **Quantum Computing, AI, and Smart Systems**
-- 🤝 Open to collaboration on **AI / ML / Computer Vision Projects**
+- 🤝 Open to collaboration on **AI / ML / Computer Vision Projects / Fullstack Websites**
 - ⚡ Fun fact: I love solving real-world problems with tech
 
 ---
