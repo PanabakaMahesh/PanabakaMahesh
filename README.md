@@ -15,38 +15,6 @@
 
 ---
 
-### 🚀 Projects
-
-🔐 **Quantum Cryptography (BB84)**
-- Built a Python simulation using Qiskit for secure communication
-
-🛒 **E-commerce Sentiment Analysis**
-- Flask app + NLP (Hugging Face) to analyze Amazon reviews
-
-🐄 **Livestock Detection System**
-- YOLOv5-based deep learning system for animal counting
-
-🚦 **Traffic Optimization System**
-- AI-powered traffic signal control using OpenCV
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-`Python` `C++` `SQL`
-
-**Web:**  
-`HTML` `CSS` `JavaScript`
-
-**Tools & Tech:**  
-`TensorFlow` `Linux` `Flask` `OpenCV`
-
-**Core Skills:**  
-`DSA` `Problem Solving` `AI/ML`
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
